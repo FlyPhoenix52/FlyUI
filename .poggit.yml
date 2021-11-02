@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FlyPhoenix52/FlyUI
+build-by-default: true
+branches:
+- main
+projects:
+  FlyUI-Source-Code-main:
+    path: FlyUI-Source-Code-main/
+...
